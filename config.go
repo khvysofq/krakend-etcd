@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/devopsfaith/krakend/config"
+	"github.com/khvysofq/krakend/config"
 )
 
 // Code taken from https://github.com/go-kit/kit/blob/master/sd/etcd/client.go

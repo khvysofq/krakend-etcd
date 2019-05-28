@@ -4,8 +4,8 @@ import (
 	"context"
 	"sync"
 
-	"github.com/devopsfaith/krakend/config"
-	"github.com/devopsfaith/krakend/sd"
+	"github.com/khvysofq/krakend/config"
+	"github.com/khvysofq/krakend/sd"
 )
 
 var (
